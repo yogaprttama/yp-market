@@ -1,2 +1,2 @@
 # yp-market
-YP Marketplace
+YP Marketplace adalah project Marketplace yang dibuat dengan PHP menggunakan framework Laravel.
